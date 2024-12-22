@@ -46,5 +46,8 @@
         "@rollup/plugin-json": "^6.1.0",
         "@solana/spl-token": "0.4.6",
         "@solana/web3.js": "^1.95.8"
-    }
+    },
+    "peerDependencies": {
+    "@solana/web3.js": "^1.95.8"
+  }
 }
